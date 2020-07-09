@@ -1,13 +1,10 @@
-*{
-    box-sizing: inherit;
+* {
     margin: 0;
     padding: 0;
-    outline: none;
-    -webkit-tap-highlight-color: transparent;
-    scroll-behavior: smooth;
+    box-sizing: inherit;
 }
 
 html {
+    font-family: 'Raleway', sans-serif;
     box-sizing: border-box;
-    font-family: 'Open Sans', sans-serif;
 }
